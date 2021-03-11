@@ -12,15 +12,9 @@
             "network": "192.168.0",
             "api": "http://192.168.11.41:8091"
         },
-{
+        {
             "network": "10.0.2",
             "api": "http://192.168.11.41:8091"
         }
-    ],
-    "testConfig": {
-        "userId": 180,
-        "userStore": 488,
-        "terminalId": 2,
-        "startupRole": "server"
-    }
+    ]
 }
