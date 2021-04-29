@@ -24,6 +24,7 @@
     "posiConfig": {
         "userId": null,
         "userStore": null,
+        "businessDay": "2020-05-01T00:00:00",
         "terminalId": 3,
         "startupRole": null
     }
