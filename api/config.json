@@ -1,7 +1,7 @@
 {
     "restaurants": [
         {
-            "network": "192.168.1",
+            "network": "192.168.11",
             "api": "http://192.168.11.41:8091"
         },
         {
@@ -15,12 +15,17 @@
         {
             "network": "10.0.2",
             "api": "http://192.168.11.41:8091"
+        },
+        {
+            "network": "192.168.100",
+            "api": "http://192.168.11.41:8091"
         }
     ],
-    "testConfig": {
-        "userId": 180,
-        "userStore": 488,
-        "terminalId": 2,
-        "startupRole": "server"
+    "posiConfig": {
+        "userId": null,
+        "userStore": null,
+        "businessDay": "2020-05-01T00:00:00",
+        "terminalId": 3,
+        "startupRole": null
     }
 }
